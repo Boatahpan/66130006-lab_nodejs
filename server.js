@@ -13,7 +13,7 @@ const options = {
     info: {
       title: "66130006 Naphat Unnanantana API",
       version: "1.0.0",
-      description: "66130006 Naphat Unnanantana API  Lab",
+      description: "Hello Universe API  Lab",
     },
   },
   apis: ["./routes/*.js"],
